@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CrashCourseWeb/DesignTimeBuild/.dtbcache.v2
+/.vs/CrashCourseWeb/FileContentIndex/0f108b7f-7789-436a-9341-281ff8c54009.vsidx
+/.vs/CrashCourseWeb/FileContentIndex/8052835c-6282-4a96-b196-fc8c44dde502.vsidx
+/.vs/CrashCourseWeb/FileContentIndex/a3e2ed59-f6fe-452d-9120-658e3d2360c5.vsidx
+/.vs/CrashCourseWeb/FileContentIndex/f54e7610-801b-4dda-9dc9-4e5f912d0f18.vsidx
+/.vs/CrashCourseWeb/v17/.futdcache.v2
+/.vs/CrashCourseWeb/v17/.suo
+/.vs/ProjectEvaluation/crashcourseweb.metadata.v7.bin
+/.vs/ProjectEvaluation/crashcourseweb.projects.v7.bin
+/CrashCourseWeb/bin/Debug/net6.0/CrashCourseWeb.dll
+/CrashCourseWeb/bin/Debug/net6.0/CrashCourseWeb.exe
+/CrashCourseWeb/bin/Debug/net6.0/CrashCourseWeb.pdb
+/CrashCourseWeb/obj/Debug/net6.0/ref/CrashCourseWeb.dll
+/CrashCourseWeb/obj/Debug/net6.0/refint/CrashCourseWeb.dll
+/CrashCourseWeb/obj/Debug/net6.0/apphost.exe
+/CrashCourseWeb/obj/Debug/net6.0/CrashCourseWeb.csproj.AssemblyReference.cache
+/CrashCourseWeb/obj/Debug/net6.0/CrashCourseWeb.csproj.CoreCompileInputs.cache
+/CrashCourseWeb/obj/Debug/net6.0/CrashCourseWeb.dll
+/CrashCourseWeb/obj/Debug/net6.0/CrashCourseWeb.pdb
+/CrashCourseWeb/obj/CrashCourseWeb.csproj.nuget.dgspec.json
+/CrashCourseWeb/obj/project.assets.json
+/CrashCourseWeb/obj/project.nuget.cache
